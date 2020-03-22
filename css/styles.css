@@ -11,6 +11,10 @@ hr {
   width: 3%
 }
 
-h1,h3{
+h1{
+  color: #3b6978;
+}
+
+h3{
   color: #3b6978;
 }
